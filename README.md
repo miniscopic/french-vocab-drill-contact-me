@@ -23,12 +23,3 @@ I aim to respond within 2–3 business days.
 **Will more vocabulary modules be added?**
 
 * Yes. New content and improvements are planned for future updates.
-
-## Privacy
-
-French Vocab Drill does not sell your personal information.
-
-Privacy Policy:
-https://yourusername.github.io/privacy
-
-Thank you for supporting an independent developer!
