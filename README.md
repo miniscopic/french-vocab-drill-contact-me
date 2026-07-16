@@ -6,7 +6,7 @@ If you have questions, find a bug, or have suggestions for future updates, I'd l
 
 ## Contact
 
-Email: **[your@email.com](mailto:your@email.com)**
+Email: **[can.alex.press.25@gmail.com](mailto:can.alex.press.25@gmail.com)**
 
 I aim to respond within 2–3 business days.
 
